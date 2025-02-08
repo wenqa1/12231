@@ -232,4 +232,4 @@ DOMAIN-SUFFIX,soulapp.cn,IP
 DOMAIN,druidv6.if.qidian.com,IP
 DOMAIN,ptlogin6.qidian.com,IP
 DOMAIN,api.wmpvp.com,IP
-,lvs.52tt.com
+HOST,lvs.52tt.com
